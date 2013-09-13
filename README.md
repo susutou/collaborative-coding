@@ -2,12 +2,12 @@
 
 This project is a web-based application for collaborative editing or coding.
 It is intended for the Advanced Distributed Systems course I will be taking
-next quarter (maybe just for fun if not applicable). I have always thinking
-of doing a project like this, however a lot of things drag me from the desired track.
-Anyway, I decided to do it now since most tools required are just out there
-for me.
+next quarter (maybe just for fun if not applicable). I have always been thinking
+of doing such a project, however a lot of things drag me from the desired track.
+Finally, I decided to start it recently since I am now prepared with the necessary
+tools and knowledge.
 
-## Design
+## Design Overview
 To be updated.
 
 ## Implementation (tentative)
@@ -22,7 +22,7 @@ to learn deeper in JavaScript. Also, for JavaScript, it could be written first i
 and then get translated.
 
 ## Status
-Not yes started.
+Not yet started.
 
 ## Contributors
-Susen Zhao (@susutou), and will be more.
+Susen Zhao ([@susutou](https://github.com/susutou)), and will be more.
