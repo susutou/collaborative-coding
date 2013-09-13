@@ -14,8 +14,12 @@ To be updated.
 A similar project (not open-source), [collabedit](http://collabedit.com), is using
 Tornado (Python) and jQuery (JavaScript) as its main back-end and front-end fuel.
 I plan to use the same framework for back-end (since collaborative editing involves
-quite amount of long-polling jobs), but to use Bootstrap, Backbone.js and other modern
+quite amount of long-polling jobs), but to use Bootstrap, Backbone.js (Ember.js) and other modern
 front-end frameworks to enhance user experience.
+
+**Note**: Node.js is another alternative for its back-end, mainly because I would like
+to learn deeper in JavaScript. Also, for JavaScript, it could be written first in CoffeeScript
+and then get translated.
 
 ## Status
 Not yes started.
