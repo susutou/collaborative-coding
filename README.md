@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/susutou/collaborative-coding.svg?branch=master)](https://travis-ci.org/susutou/collaborative-coding)
 
-This project is a web-based application for collaborative editing or coding.
-This project is purely for fun.
+This project is a web-based application for collaborative editing or coding, and is purely for fun.
 
 ## Design Overview
 To be updated.
