@@ -16,3 +16,6 @@ front end.
 
 ## Contributors
 Susen Zhao ([@susutou](https://github.com/susutou)), and will be more.
+
+## How to Contribute
+Please follow [GitHub Workflow](http://scottchacon.com/2011/08/31/github-flow.html) to contribute to this project.
